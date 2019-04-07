@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UXDK Blog</title>
+    <link>https://uxdk.github.io/</link>
+    <description>Recent content on UXDK Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uxdk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Her begynder vi</title>
+      <link>https://uxdk.github.io/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uxdk.github.io/post/creating-a-new-theme/</guid>
+      <description> Introduction Installerer Hugo på din local computer
+hugo new site hugo_site cd hugo_site cd themes git clone https://github.com/calintat/minimal.git cd minimal cp hugo_site/themes/minimal/exampleSite/* /hugo_site/ hugo cd public git init git remote add origin https://github.com/xxx/xxx.github.io.git git pull origin master git add . git commit -m &amp;quot;made some changes.&amp;quot; git push origin master  </description>
+    </item>
+    
+  </channel>
+</rss>
