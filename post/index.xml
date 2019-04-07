@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Minimal</title>
+    <title>Posts on UXDK Blog</title>
     <link>https://uxdk.github.io/post/</link>
-    <description>Recent content in Posts on Minimal</description>
+    <description>Recent content in Posts on UXDK Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
