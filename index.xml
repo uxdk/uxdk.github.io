@@ -17,7 +17,8 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://uxdk.github.io/post/creating-a-new-theme/</guid>
-      <description> Introduction </description>
+      <description> Introduction Installerer Hugo på din local computer
+hugo new site hugo_site cd hugo_site cd themes git clone https://github.com/calintat/minimal.git cd minimal cp hugo_site/themes/minimal/exampleSite/* /hugo_site/ hugo cd public git init git remote add origin https://github.com/xxx/xxx.github.io.git git pull origin master git add . git commit -m &amp;quot;made some changes.&amp;quot; git push origin master  </description>
     </item>
     
   </channel>

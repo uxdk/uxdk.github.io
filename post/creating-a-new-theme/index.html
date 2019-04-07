@@ -132,6 +132,24 @@
     <br> <div class="text-justify">
 
 <h2 id="introduction">Introduction</h2>
+
+<p>Installerer  Hugo på din local computer</p>
+
+<pre><code>hugo new site hugo_site
+cd hugo_site
+cd themes
+git clone https://github.com/calintat/minimal.git
+cd minimal
+cp hugo_site/themes/minimal/exampleSite/* /hugo_site/
+hugo
+cd public
+git init
+git remote add origin https://github.com/xxx/xxx.github.io.git
+git pull origin master
+git add .
+git commit -m &quot;made some changes.&quot;
+git push origin master
+</code></pre>
 </div>
 
     
